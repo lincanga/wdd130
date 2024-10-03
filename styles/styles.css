@@ -28,11 +28,11 @@ main {max-width: 840px;}
 aside {
     width: 20rem;
     text-align: center;
+    position: relative;
 }
 aside img {
     width: 200px;
     height: auto;
-    position: relative;
 }
 main img {
     width: 200px;
