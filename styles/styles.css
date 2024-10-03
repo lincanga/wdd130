@@ -45,7 +45,7 @@ footer{
     text-align: center;
 }
 aside h2 {
-    position: relative;
+    position: absolute;
     bottom: 18px;
     left: 15px;
     align-content: center;
