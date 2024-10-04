@@ -24,7 +24,8 @@ img {
 p {
     padding: 10px;
 }
-main {max-width: 840px;}
+main {max-width: 840px;
+text-align: justify;}
 aside {
     width: 20rem;
     text-align: center;
@@ -47,8 +48,8 @@ footer{
 }
 aside h2 {
     position: absolute;
-    bottom: 18px;
-    left: 15px;
+    bottom: 230px;
+    left: 125px;
     align-content: center;
 }
 /* Class Selectors */
