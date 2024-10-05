@@ -1,5 +1,7 @@
 :root{
-    --heading-background-color: #f06;
-    --heading-tect-color: #333;
-    --heading-font:
+    --heading-background-color: rgb(197, 187, 226);
+    --heading-tect-color: #001b39;
+    --heading-font: "Roboto", Helvetica, sans-rif;
+    --padding: 1rem;
+    --border: 1px solid rgba(0,0,0,0.1);
 }

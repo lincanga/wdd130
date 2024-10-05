@@ -9,3 +9,12 @@
     font-weight: 900;
     font-style: normal;
   }
+  h1{
+    background-color: var(--heading-background-color);
+    padding: var(--padding);
+  }
+  aside {
+    margin: 10px;
+    padding: var(--padding);
+    box-shadow: 0 0 10px rgba(0,0,0,0.1)
+  }
