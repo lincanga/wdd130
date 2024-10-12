@@ -3,5 +3,36 @@
     --heading-text-color: #001b39;
     --heading-font: "Roboto", Arial, sans-serif;
     --padding: 1rem;
-    --border: 1px solid rgba(0,0,0,0.1);
+    --border: 1px solid rgba(0,0,0,0.1);}
+section{
+    padding: auto;
+    width: 100%;}
+.hero img {
+display: block;
+width: 100%;
+height: auto;
 }
+main {
+	max-width: 800px;
+	margin: 2rem auto;
+	font-family: Roboto, Arial, sans-serif;
+    background-color: var(--heading-background-color)
+}
+footer {
+	position:static;
+	bottom: 0;
+	margin: 1rem;
+	border-top: 1px solid #000;
+	padding: 0.5rem;
+	color: navy;
+	font-weight: 700;
+	font-style: normal;
+    image-resolution: 1rem;
+content: icon;}
+    
+body {margin: 0px;
+    height: 100%;
+    background-color: rgb(161, 188, 246);}
+nav
+{margin: 0px;
+height: 100%;}
