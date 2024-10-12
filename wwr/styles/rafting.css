@@ -36,3 +36,12 @@ body {margin: 0px;
 nav
 {margin: 0px;
 height: 100%;}
+h1{
+    color: rgb(96, 56, 4);
+    align-content: center;
+}
+h2{
+    color: #084460;
+    position: relative;
+    align-content: center;
+}
