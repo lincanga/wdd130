@@ -113,12 +113,12 @@ figure {
     display: flex;
     flex-flow: column;
     padding: 5px;
-    max-width: 840px;
+    max-width: 200px;
     margin: auto;
   }
   
   img {
-    max-width: 840px;
+    max-width: 200px;
     max-height: auto;
   }
   
@@ -127,5 +127,10 @@ figure {
     color: #fff;
     font: italic smaller sans-serif;
     padding: 3px;
-    text-align: center;
-  }
+    text-align: center;}
+.adventure{
+    display: inline-flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
