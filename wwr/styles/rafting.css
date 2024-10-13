@@ -54,11 +54,8 @@ h2{
     border: #000;
     background-color: #606e74;
 }
-.header {
+header {
 	margin: 0 auto;
-	display: grid;
-	grid-template-rows: 1fr 1fr;
-	align-items: center;
 	border-bottom: 1px solid #ccc;
 	max-width: 840px;
 }
